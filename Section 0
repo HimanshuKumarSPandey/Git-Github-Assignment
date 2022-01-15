@@ -1,0 +1,10 @@
+Use GIT as local VCS.
+1. Create a directory 'project_dir' & cd'project_dir'
+2. Initialize git version database. (git init)
+3. Create a new file index.html
+4. Check the git status. You should find index.html as untrcked file.
+5. Stage the index.html File.
+6. Commit index.html
+7. Make few changes in index.html and create a new file info.txt file.
+8. 
+9.
